@@ -1,4 +1,4 @@
-# 03 - Risk Assessment & Gap Analysis (AWS 3-Tier Architecture)
+# Risk Assessment & Gap Analysis (AWS 3-Tier Architecture)
 
 ---
 
